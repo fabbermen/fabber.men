@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "FabBer blog",
+  "home_page_url": "https://fabber.men",
+  "feed_url": "https://fabber.men/feed/feed.json",
+  "description": "Personal blog of Fabio Bertollini",
+  "author": {
+    "name": "Fabio Bertollini",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://fabber.men/posts/p1/",
+      "url": "https://fabber.men/posts/p1/",
+      "title": "Work in progress.",
+      "content_html": "<h2 id=\"this-is-a-work-in-progress\">This is a Work in Progress <a class=\"direct-link\" href=\"#this-is-a-work-in-progress\">#</a></h2>\n<p><img src=\"https://www.clipartmax.com/png/small/19-192949_work-in-progress-work-in-progress-vector.png\" alt=\"Png By @clipartmax.com\"></p>\n<p>The aim of this blog is to be very fast and lean, leading to very high performances.<br>\nIt's written in <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a>, rendered via a Static Site Generator <a href=\"https://www.11ty.dev/\">eleventy</a>, built via npm, pushed to a public <a href=\"https://github.com/fabbermen/fabber.men\">github repo</a>, hosted via <a href=\"https://pages.github.com/\">GitHub pages</a>, and cached by <a href=\"https://www.cloudflare.com/cdn/\">Cloudflare CND</a>.<br>\nThere will never be any advertisement or bloatware.</p>\n<p>I hope I'll able to share with you information that is helping you somehow reach your goals!</p>\n",
+      "date_published": "2022-03-19T01:00:00+01:00"
+    }
+  ]
+}
