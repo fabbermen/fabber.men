@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>FabBer blog</title>
+	<title>FabBer</title>
 	<subtitle>Personal blog of Fabio Bertollini</subtitle>
 	
 	<link href="https://www.fabber.men/feed/feed.xml" rel="self"/>

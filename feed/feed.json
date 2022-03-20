@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "FabBer blog",
+  "title": "FabBer",
   "home_page_url": "https://www.fabber.men",
   "feed_url": "https://www.fabber.men/feed/feed.json",
   "description": "Personal blog of Fabio Bertollini",
