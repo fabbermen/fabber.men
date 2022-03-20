@@ -3,26 +3,27 @@
 	<title>FabBer blog</title>
 	<subtitle>Personal blog of Fabio Bertollini</subtitle>
 	
-	<link href="https://fabber.men/feed/feed.xml" rel="self"/>
-	<link href="https://fabber.men"/>
+	<link href="https://www.fabber.men/feed/feed.xml" rel="self"/>
+	<link href="https://www.fabber.men"/>
 	<updated>2022-03-19T01:00:00+01:00</updated>
-	<id>https://fabber.men</id>
+	<id>https://www.fabber.men</id>
 	<author>
-		<name>Fabio Bertollini</name>
+		<name>© 2022 Fabio Bertollini</name>
 		<email></email>
 	</author>
 	
 	<entry>
-		<title>Work in progress.</title>
-		<link href="https://fabber.men/posts/p1/"/>
+		<title>This blog and the technical providers.</title>
+		<link href="https://www.fabber.men/posts/p1/"/>
 		<updated>2022-03-19T01:00:00+01:00</updated>
-		<id>https://fabber.men/posts/p1/</id>
+		<id>https://www.fabber.men/posts/p1/</id>
 		<content type="html">
-		  &lt;h2 id=&quot;this-is-a-work-in-progress&quot;&gt;This is a Work in Progress &lt;a class=&quot;direct-link&quot; href=&quot;#this-is-a-work-in-progress&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.clipartmax.com/png/small/19-192949_work-in-progress-work-in-progress-vector.png&quot; alt=&quot;Png By @clipartmax.com&quot;&gt;&lt;/p&gt;
+		  &lt;h2 id=&quot;this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;This blog is made thanks to amazing free software and services &lt;a class=&quot;direct-link&quot; href=&quot;#this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;As a very first post for this blog, I need to thank the makers of the amazing software and services that make this blog possible.&lt;br&gt;
+Since they don&#39;t make money with those, the least I can do, is to mention and link them.&lt;/p&gt;
 &lt;p&gt;The aim of this blog is to be very fast and lean, leading to very high performances.&lt;br&gt;
-It&#39;s written in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt;, rendered via a Static Site Generator &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;eleventy&lt;/a&gt;, built via npm, pushed to a public &lt;a href=&quot;https://github.com/fabbermen/fabber.men&quot;&gt;github repo&lt;/a&gt;, hosted via &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;, and cached by &lt;a href=&quot;https://www.cloudflare.com/cdn/&quot;&gt;Cloudflare CND&lt;/a&gt;.&lt;br&gt;
-There will never be any advertisement or bloatware.&lt;/p&gt;
+It&#39;s written in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VSCode&lt;/a&gt;, rendered via a Static Site Generator (&lt;a href=&quot;https://www.11ty.dev/&quot;&gt;eleventy&lt;/a&gt;), built via npm on a &lt;a href=&quot;https://ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt; server, pushed to a &lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt; repo, hosted via &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;, and cached by &lt;a href=&quot;https://www.cloudflare.com/cdn/&quot;&gt;Cloudflare CDN&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There will never be any advertisement or bloatware.&lt;/p&gt;
 &lt;p&gt;I hope I&#39;ll able to share with you information that is helping you somehow reach your goals!&lt;/p&gt;
 
 			
