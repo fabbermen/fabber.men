@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>FabBer</title>
+	<title>FabBer.men</title>
 	<subtitle>Personal blog of Fabio Bertollini</subtitle>
 	
 	<link href="https://www.fabber.men/feed/feed.xml" rel="self"/>
@@ -18,7 +18,7 @@
 		<updated>2022-03-19T01:00:00+01:00</updated>
 		<id>https://www.fabber.men/posts/p1/</id>
 		<content type="html">
-		  &lt;h2 id=&quot;this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;This blog is made thanks to amazing free software and services &lt;a class=&quot;direct-link&quot; href=&quot;#this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+		  &lt;h3 id=&quot;this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;This blog is made thanks to amazing free software and services &lt;a class=&quot;direct-link&quot; href=&quot;#this-blog-is-made-thanks-to-amazing-free-software-and-services&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;As a very first post for this blog, I need to thank the makers of the amazing software and services that make this blog possible.&lt;br&gt;
 Since they don&#39;t make money with those, the least I can do, is to mention and link them.&lt;/p&gt;
 &lt;p&gt;The aim of this blog is to be very fast and lean, leading to very high performances.&lt;br&gt;

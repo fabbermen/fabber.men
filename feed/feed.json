@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "FabBer",
+  "title": "FabBer.men",
   "home_page_url": "https://www.fabber.men",
   "feed_url": "https://www.fabber.men/feed/feed.json",
   "description": "Personal blog of Fabio Bertollini",
@@ -12,7 +12,7 @@
       "id": "https://www.fabber.men/posts/p1/",
       "url": "https://www.fabber.men/posts/p1/",
       "title": "This blog and the technical providers.",
-      "content_html": "<h2 id=\"this-blog-is-made-thanks-to-amazing-free-software-and-services\">This blog is made thanks to amazing free software and services <a class=\"direct-link\" href=\"#this-blog-is-made-thanks-to-amazing-free-software-and-services\">#</a></h2>\n<p>As a very first post for this blog, I need to thank the makers of the amazing software and services that make this blog possible.<br>\nSince they don't make money with those, the least I can do, is to mention and link them.</p>\n<p>The aim of this blog is to be very fast and lean, leading to very high performances.<br>\nIt's written in <a href=\"https://code.visualstudio.com/\">VSCode</a>, rendered via a Static Site Generator (<a href=\"https://www.11ty.dev/\">eleventy</a>), built via npm on a <a href=\"https://ubuntu.com/\">Ubuntu</a> server, pushed to a <a href=\"https://github.com/\">github</a> repo, hosted via <a href=\"https://pages.github.com/\">GitHub pages</a>, and cached by <a href=\"https://www.cloudflare.com/cdn/\">Cloudflare CDN</a>.</p>\n<p>There will never be any advertisement or bloatware.</p>\n<p>I hope I'll able to share with you information that is helping you somehow reach your goals!</p>\n",
+      "content_html": "<h3 id=\"this-blog-is-made-thanks-to-amazing-free-software-and-services\">This blog is made thanks to amazing free software and services <a class=\"direct-link\" href=\"#this-blog-is-made-thanks-to-amazing-free-software-and-services\">#</a></h3>\n<p>As a very first post for this blog, I need to thank the makers of the amazing software and services that make this blog possible.<br>\nSince they don't make money with those, the least I can do, is to mention and link them.</p>\n<p>The aim of this blog is to be very fast and lean, leading to very high performances.<br>\nIt's written in <a href=\"https://code.visualstudio.com/\">VSCode</a>, rendered via a Static Site Generator (<a href=\"https://www.11ty.dev/\">eleventy</a>), built via npm on a <a href=\"https://ubuntu.com/\">Ubuntu</a> server, pushed to a <a href=\"https://github.com/\">github</a> repo, hosted via <a href=\"https://pages.github.com/\">GitHub pages</a>, and cached by <a href=\"https://www.cloudflare.com/cdn/\">Cloudflare CDN</a>.</p>\n<p>There will never be any advertisement or bloatware.</p>\n<p>I hope I'll able to share with you information that is helping you somehow reach your goals!</p>\n",
       "date_published": "2022-03-19T01:00:00+01:00"
     }
   ]
